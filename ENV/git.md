@@ -1,4 +1,4 @@
 ## git 저장소 만들기
-'''bash
+```bash
 git init
-'''
+```
